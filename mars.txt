@@ -8,4 +8,6 @@ Wow!
 But the mummy will appreciate the lack of humidity.
 I'm going to start a base on Venus.
 
-Git and Github are confusing
+Git and Github are confusing.
+
+What is going on?
